@@ -1,2 +1,3 @@
-# goit-js-hw-01
-First project js
+# goit-js-hw-02
+
+Second project js
